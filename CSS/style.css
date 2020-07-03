@@ -1,0 +1,102 @@
+*
+{
+    margin:0;
+    padding:0
+}
+body
+{
+    font-family: 'Prompt', sans-serif;
+    background-color: black;
+}
+.welcome
+{
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    color: #FFD300;
+    padding-top:127px;
+    height: 200px;
+}
+.container
+{
+    display: flex;
+}
+.my-img
+{
+    width: 265px;
+}
+.my-img img
+{
+    width:100%;
+    height: 100%;
+}
+.about
+{
+    background-color: black;
+    color: #FFD300;
+    width:1092px
+}
+.about h1
+{
+    text-align: center;
+}
+.about p
+{
+    text-align: center;
+    padding: 22px 100px 10px 100px;
+    color: white;
+    font-weight: 10;
+}
+.skills
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.skills h1
+{
+    color: #FFD300
+}
+.skills p
+{
+    display: inline-block;
+    padding-right:81px;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.goals
+{
+    background-color: #FFD300;
+    padding-bottom: 50px;
+}
+.goals h1
+{
+    text-align: center;
+    padding-top: 30px;
+    color: white
+}
+.goals img
+{
+    display: inline-block;
+    margin-left: 53px;
+}
+.goals p
+{
+    display: inline-block;
+    color: white
+}
+footer
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+footer img
+{
+    margin-right: 19px;
+}
+footer .twitter
+{
+    margin-left: 530px;
+}
