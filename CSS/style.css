@@ -67,14 +67,14 @@ body
 }
 .goals
 {
-    background-color: #FFD300;
+    background-color: #000;
     padding-bottom: 50px;
 }
 .goals h1
 {
     text-align: center;
     padding-top: 30px;
-    color: white
+    color: yellow
 }
 .goals img
 {
@@ -84,7 +84,7 @@ body
 .goals p
 {
     display: inline-block;
-    color: white
+    color: yellow
 }
 footer
 {
